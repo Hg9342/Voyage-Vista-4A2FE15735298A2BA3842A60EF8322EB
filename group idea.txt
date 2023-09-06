@@ -1,0 +1,6 @@
+group idea; 
+          # uber sets fares using dynamic pricing which is a model based on the local supply and demand in a specific region at the time of the booking. 
+          # ubers for food delivery.ubers for pharmacy. 
+
+          # uber's advantage include door-to-door convenience, safety and reliable quality. 
+          # uber's disadvantage include it's surge pricing and the negative effects of replacing steady jobs with gig work.
